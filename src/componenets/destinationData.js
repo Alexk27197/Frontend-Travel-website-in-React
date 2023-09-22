@@ -1,8 +1,8 @@
 import { Component } from "react";
-import Mountain1 from "../assets/volcano1.jpg";
-import Mountain2 from "../assets/volcano2.jpg";
-import Mountain3 from "../assets/volcano3.jpg";
-import Mountain4 from "../assets/volcano4.jpg";
+// import Mountain1 from "../assets/volcano1.jpg";
+// import Mountain2 from "../assets/volcano2.jpg";
+// import Mountain3 from "../assets/volcano3.jpg";
+// import Mountain4 from "../assets/volcano4.jpg";
 import "./destinationStyle.css";
 
 class DestenationData extends Component {

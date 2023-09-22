@@ -11,17 +11,17 @@ function Trip() {
       <p>You can discover unique detinations using Google Maps.</p>
       <div className="trip-card">
         <TripData
-          image={CardImg1}
+          imageCard={CardImg1}
           heading="Trip in Indonesia"
           text="Indonesia is a huge archipelago of diverse islands scattered over both sides of the Equator between the Indian Ocean and the Pacific Ocean. With an extensive, but quickly carved out amount of green forests on all of its islands and halfway between the poles, Indonesia is nicknamed The Emerald of the Equator."
         />
         <TripData
-          image={CardImg2}
+          imageCard={CardImg2}
           heading="Trip in Indonesia"
           text="Indonesia is a huge archipelago of diverse islands scattered over both sides of the Equator between the Indian Ocean and the Pacific Ocean. With an extensive, but quickly carved out amount of green forests on all of its islands and halfway between the poles, Indonesia is nicknamed The Emerald of the Equator."
         />
         <TripData
-          image={CardImg3}
+          imageCard={CardImg3}
           heading="Trip in Indonesia"
           text="Indonesia is a huge archipelago of diverse islands scattered over both sides of the Equator between the Indian Ocean and the Pacific Ocean. With an extensive, but quickly carved out amount of green forests on all of its islands and halfway between the poles, Indonesia is nicknamed The Emerald of the Equator."
         />
